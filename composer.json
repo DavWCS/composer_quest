@@ -1,0 +1,16 @@
+{
+    "name": "dav/composer_quest",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HOURDOU DAVID",
+            "email": "davidhourdou@gmail.com"
+        }
+    ],
+    "require": {}
+}
