@@ -1,6 +1,8 @@
 <?php
 
-require_once ('/home/utilisateur/wcs-2022/php/quetes php/composer_quest/src/Wcs/Hello.php');
+require__DIR__. '../vendor/autoload';
+
+use App\src\Wcs\Hello;
 
 $hello = new Hello;
 
